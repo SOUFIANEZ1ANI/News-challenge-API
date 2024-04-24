@@ -30,7 +30,7 @@
 * Then run ``` php artisan serve ```
 
 ## Testing
-In this file [doc/postman_collection.json](.doc/postman_collection.json) you will find the postman collection which you can import into your local postman app and test the api.
+In this file [doc/postman_collection.json](.docs/postman_collection.json) you will find the postman collection which you can import into your local postman app and test the api.
 
 
 
