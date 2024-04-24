@@ -1,0 +1,16 @@
+.env
+.git
+.k8s
+.phpunit.result.cache
+database/migrations/**
+node_modules
+package.json
+README.md
+storage/app/mycard-gcp.json
+storage/framework/cache/**
+storage/framework/sessions/**
+storage/framework/testing/**
+storage/framework/views/**
+tests
+vendor
+yarn.lock
